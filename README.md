@@ -9,7 +9,7 @@ Last Updated: 2026-07-27
 
 > **Knowledge is the Product. AI is the Interface.**
 
-MyPilatesStudio is an AI-powered operating system for Pilates instructors and studios.
+MyPilatesStudioOS is an AI-powered operating system for Pilates instructors and studios.
 
 The platform combines structured Pilates knowledge, student management, and AI-assisted teaching into one unified system.
 
