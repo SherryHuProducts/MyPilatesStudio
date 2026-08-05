@@ -6,7 +6,7 @@
 **Version:** 1.0
 **Status:** Draft
 **Owner:** Xinlei Hu
-**Last Updated:** 2026-07-24
+**Last Updated:** 2026-08-03
 **Target Platform:** Supabase / PostgreSQL
 
 ---
@@ -3691,3 +3691,18 @@ AI explainability
 Every database decision must support the central product principle:
 
 > Knowledge is the Product. AI is the Interface.
+
+---
+
+# Relationship to Knowledge Standards
+
+This document defines the relational database schema.
+
+Knowledge representation, movement structures, cue structures,
+clinical reasoning,
+and AI retrieval metadata
+are defined separately in the Knowledge Standards.
+
+Database tables store the knowledge.
+
+Knowledge Standards define the content of that knowledge.

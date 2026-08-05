@@ -5,7 +5,7 @@ Status: Draft
 
 Owner: Xinlei Hu
 
-Last Updated: 2026-07-27
+Last Updated: 2026-08-03
 
 > **Knowledge is the Product. AI is the Interface.**
 
@@ -33,3 +33,41 @@ Start here:
 ## Tech Stack
 
 Next.js · React · TypeScript · Supabase · PostgreSQL
+
+
+# MyPilatesStudio Documentation
+
+This documentation is divided into four sections.
+
+## Architecture
+
+Defines the software architecture,
+database,
+system design,
+and domain model.
+
+## Standards
+
+Defines how Pilates knowledge is represented.
+
+Examples:
+
+- Movement Standard
+- Cue Standard
+- Clinical Standard
+
+## Development
+
+Development guides for Codex and contributors.
+
+## Roadmap
+
+Future planning and milestones.
+
+---
+
+Architecture changes rarely.
+
+Standards evolve slowly.
+
+Knowledge grows continuously.

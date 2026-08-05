@@ -8,9 +8,15 @@ Status: Draft
 
 Owner: Xinlei Hu
 
-Last Updated: 2026-07-24
+Last Updated: 2026-08-03
 
 ---
+
+> This document defines the business domain entities of MyPilatesStudio.
+
+> It does not define how movement knowledge is represented.
+
+> Detailed knowledge representation is defined in the Knowledge Standards.
 
 # 1. Purpose
 
@@ -624,3 +630,11 @@ the frontend,
 and AI—
 
 must be built on top of this shared language.
+
+---
+
+## Related Documents
+
+- 04_DatabaseDesign.md
+- 05_KnowledgeStandard.md
+- 06_MovementStandard.md

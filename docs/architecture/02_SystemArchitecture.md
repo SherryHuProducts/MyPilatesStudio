@@ -8,7 +8,7 @@ Status: Draft
 
 Owner: Xinlei Hu
 
-Last Updated: 2026-07-24
+Last Updated: 2026-08-03
 
 ---
 
@@ -590,3 +590,19 @@ The Instructor is the Decision Maker.
 The Student is the Beneficiary.
 
 Every future feature must strengthen the knowledge layer rather than bypass it.
+
+---
+
+## Knowledge Layer
+
+The Knowledge Layer sits above the relational database.
+
+It standardizes movement knowledge,
+clinical knowledge,
+cue structures,
+assessment data,
+and AI retrieval metadata.
+
+The database stores information.
+
+The Knowledge Layer defines what information should exist.
