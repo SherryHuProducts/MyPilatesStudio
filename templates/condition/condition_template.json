@@ -1,0 +1,19 @@
+# Templates
+
+Templates define the canonical starting point for creating new knowledge objects.
+
+Templates are implementation artifacts.
+
+Standards define what information must exist.
+
+Templates provide reusable file structures.
+
+Knowledge contains real content.
+
+Workflow:
+
+Standard
+    ↓
+Template
+    ↓
+Knowledge
