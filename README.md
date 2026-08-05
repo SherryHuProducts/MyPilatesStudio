@@ -25,8 +25,10 @@ Current methodology:
 
 Start here:
 
+- `README.md`
 - `PROJECT_STRUCTURE.md`
 - `docs/`
+
 
 ---
 

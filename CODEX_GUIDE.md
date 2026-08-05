@@ -35,10 +35,23 @@ README.md
 
 PROJECT_STRUCTURE.md
 
-docs/
+docs/architecture/01_ProductSpecification.md
+
+docs/architecture/02_SystemArchitecture.md
+
+docs/architecture/03_DomainModel.md
+
+docs/architecture/03.5_EntityRelationship.md
+
+docs/architecture/04_DatabaseDesign.md
+
+docs/standards/05_KnowledgeStandard.md
+
+docs/standards/06_MovementStandard.md
+
 ```
 
-The documentation under `/docs` is the source of truth for architecture.
+If a document has moved, always use the latest repository structure instead of assuming historical paths.
 
 If implementation and documentation conflict:
 
