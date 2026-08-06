@@ -28,6 +28,8 @@ The Knowledge Standard is independent of:
 
 Different methodologies may provide different content, but all knowledge must follow the same data structure.
 
+Only knowledge that may vary between methodologies, evolve over time, or require evidence should include a Source reference. Static properties and AI-generated metadata do not require source attribution.只有可能因教学体系不同、随着时间变化或需要证据支持的知识，才需要记录来源（Source）。固定属性和 AI 自动生成的元数据无需记录来源。
+
 ---
 
 # Design Principles
