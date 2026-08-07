@@ -14,7 +14,7 @@ Xinlei Hu
 Reviewer:
 
 Last Updated:
-08/05/2026
+08/06/2026
 
 ---
 
@@ -60,9 +60,6 @@ Beginner
 Source:
 STOTT Pilates Reformer Essential Manual（Chinese Edition）
 
-Source Pages:
-23、27
-
 Knowledge Scope:
 Source Knowledge Only
 
@@ -72,49 +69,41 @@ Source Knowledge Only
 
 ## Purpose（动作目的）
 
-作为 Footwork 的第一个标准脚位，通过双腿外旋、脚掌分开、双踵并拢完成 Footwork 动作。
+Footwork 的第一个标准脚位。
+
+通过双腿外旋、脚掌分开、双踵并拢的站位完成 Footwork 动作。
 
 ---
 
 ## Description（动作描述）
 
-脚球部置于脚踏杆，双腿外旋，脚掌分开，双踵并拢，在保持正确排列的过程中完成推车动作。
-
----
-
-## Teaching Goals（教学目标）
-
-- 建立正确的外旋脚位。
-- 建立双腿正确排列。
-- 建立稳定的 Reformer 推车动作模式。
+跖球部抵在脚踏杆上，脚掌分开，双踵并拢，双腿外旋，在保持正确排列的情况下完成推车动作。
 
 ---
 
 ## Training Focus（训练重点）
 
-- 下肢外旋控制。
-- 双腿排列。
-- 下肢稳定性。
+- 双腿外旋控制
+- 双踵保持并拢
+- 下肢稳定排列
 
 ---
 
 # Equipment Setup（器械设置）
 
-Springs:
+Footbar
 
-3–4 根弹簧。
+Position 1
 
-Footbar:
+Springs
 
-Position 1。
+3–4 根弹簧
 
-Headrest:
+Headrest
 
-根据个人情况调节。
+根据个人情况调节头垫
 
-Accessories:
-
-无。
+Source：P23
 
 ---
 
@@ -122,7 +111,7 @@ Accessories:
 
 ## Feet（双脚）
 
-脚球部抵住脚踏杆。
+跖球部抵在脚踏杆上。
 
 脚掌分开。
 
@@ -144,7 +133,7 @@ Source：P23
 
 双膝弯曲。
 
-双膝分开至略宽于肩。
+双膝分开至略超肩宽。
 
 双膝朝向脚的中心点。
 
@@ -220,7 +209,9 @@ Source：P22
 
 ## Preparation（准备）
 
-吸气准备。
+准备。
+
+吸气。
 
 Source：P23
 
@@ -230,11 +221,11 @@ Source：P23
 
 呼气。
 
-双腿紧靠至一起。
+双腿紧靠在一起。
 
 双膝伸展。
 
-推动滑垫。
+推开滑垫。
 
 Source：P23
 
@@ -244,9 +235,9 @@ Source：P23
 
 吸气。
 
-弯曲双膝及髋部。
+弯曲双膝和髋部。
 
-控制滑垫返回。
+控制滑垫复位。
 
 Source：P23
 
@@ -254,17 +245,19 @@ Source：P23
 
 # Breathing（呼吸）
 
-Preparation:
+Preparation
 
 吸气。
 
-Execution:
+Execution
 
 呼气。
 
-Return:
+Return
 
 吸气。
+
+Source：P23
 
 ---
 
@@ -272,49 +265,15 @@ Return:
 
 10–12 次。
 
----
-
-# Teaching（教学）
-
-## Teaching Cues（教学口令）
-
-### Cue 1
-
-Value:
-
-保持双踵并拢。
-
 Source：P23
 
 ---
 
-### Cue 2
-
-Value:
-
-双膝朝向脚的中心点。
-
-Source：P23
-
----
-
-### Cue 3
-
-Value:
-
-保持双腿外旋。
-
-Source：P23
-
----
-
-## Key Points（动作要点）
+# Key Points（动作要点）
 
 ### Point 1
 
-Value:
-
-双踵始终并拢并保持悬空，不要主动上提或下压。
+遵循第22页「要点」部分列列的所有事项。
 
 Source：P23
 
@@ -322,9 +281,7 @@ Source：P23
 
 ### Point 2
 
-Value:
-
-双膝始终朝向脚的中心点。
+双踵始终并拢悬空，并保持不动，不要上提或下压。
 
 Source：P23
 
@@ -332,45 +289,9 @@ Source：P23
 
 ### Point 3
 
-Value:
+双膝始终朝向脚的中心点。
 
-遵循 Footwork 通用要点。
-
-Source：P22
-
----
-
-## Observation（观察重点）
-
-- 双踵是否始终保持并拢。
-- 双膝是否持续朝向脚的中心点。
-- 双腿是否保持外旋排列。
-
----
-
-## Common Errors（常见错误）
-
-### Error 1
-
-Description:
-
-双踵分开。
-
-Correction:
-
-保持双踵轻触并持续并拢。
-
----
-
-### Error 2
-
-Description:
-
-双膝偏离脚的中心点。
-
-Correction:
-
-保持双膝持续朝向脚的中心点。
+Source：P23
 
 ---
 
@@ -378,11 +299,7 @@ Correction:
 
 ## Concentric（向心收缩）
 
-髋伸肌群。
-
-股四头肌。
-
-内收肌群。
+伸展时向心收缩髋伸肌群、股四头肌和内收肌群。
 
 Source：P27
 
@@ -390,11 +307,7 @@ Source：P27
 
 ## Eccentric（离心收缩）
 
-髋伸肌群。
-
-股四头肌。
-
-内收肌群。
+复位时离心收缩上述肌群。
 
 Source：P27
 
@@ -402,13 +315,7 @@ Source：P27
 
 ## Isometric（等长收缩）
 
-教材未说明。
-
----
-
-## Stabilizers（稳定肌）
-
-外旋肌群保持髋部外旋。
+利用外旋肌群保持髋部旋转。
 
 Source：P27
 
@@ -418,11 +325,11 @@ Source：P27
 
 ## Primary Joints（主要关节）
 
-髋关节。
+髋关节
 
-膝关节。
+膝关节
 
-踝关节。
+踝关节
 
 Source：P23、P27
 
@@ -430,9 +337,13 @@ Source：P23、P27
 
 ## Joint Motion（关节运动）
 
-髋关节伸展 / 屈曲。
+髋关节
 
-膝关节伸展 / 屈曲。
+- 屈曲 → 伸展 → 屈曲
+
+膝关节
+
+- 屈曲 → 伸展 → 屈曲
 
 Source：P23
 
@@ -440,13 +351,11 @@ Source：P23
 
 ## Joint Stability（关节稳定）
 
-保持双腿外旋。
+双腿保持外旋。
 
-保持双膝朝向脚的中心点。
+双踵保持并拢。
 
-保持髋、膝、踝正确排列。
-
-Source：P22、P23
+Source：P23、P27
 
 ---
 
@@ -454,9 +363,11 @@ Source：P22、P23
 
 - 双腿保持外旋。
 - 双踵保持并拢。
+- 双膝朝向脚的中心点。
 - 骨盆保持中立位。
 - 脊柱保持中立位。
-- 髋、膝、踝保持正确排列。
+
+Source：P22、P23
 
 ---
 
@@ -464,41 +375,50 @@ Source：P22、P23
 
 ## Keywords
 
-- Footwork
-- Toes Apart Heels Together
-- Reformer
+Footwork
+
+Toes Apart Heels Together
+
+External Rotation
+
+Reformer
 
 ---
 
 ## Tags
 
-- Warm-up
-- Lower Extremity
-- External Rotation
+Warm-up
+
+Lower Extremity
+
+Footwork Series
 
 ---
 
 ## Related Movements
 
-- REF-ESS-001 Footwork
-- REF-ESS-001-V02 Wrap Toes on Bar
-- REF-ESS-001-V03 Heels on Bar
+REF-ESS-001 Footwork
+
+REF-ESS-001-V02 Wrap Toes on Bar
+
+REF-ESS-001-V03 Heels on Bar
 
 ---
 
 # References
 
-Methodology:
+Methodology
+
 STOTT Pilates
 
-Program:
+Program
+
 Reformer Essential
 
-Exercise:
-Exercise 1 – Footwork
+Exercise
 
-Variant:
+Exercise 1 — Footwork
+
+Variant
+
 Toes Apart Heels Together
-
-Source Pages:
-23、27

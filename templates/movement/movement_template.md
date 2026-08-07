@@ -1,9 +1,5 @@
 # Movement Template V1.0 Stable
 
-Version:
-
-Status:
-
 ---
 
 # Document Information
@@ -22,7 +18,7 @@ Last Updated:
 
 # Identity（基本信息）
 
-Movement Code:
+Parent Movement:
 
 Variant Code:
 
@@ -42,8 +38,6 @@ Category:
 
 Movement Family:
 
-Difficulty:
-
 ---
 
 # Source Information（来源）
@@ -62,39 +56,29 @@ Knowledge Scope:
 
 Value:
 
+Source:
+
 ---
 
 ## Description（动作描述）
 
 Value:
 
----
-
-## Teaching Goals（教学目标）
-
-- Goal 1
-- Goal 2
-- Goal 3
-
----
-
-## Training Focus（训练重点）
-
-- Focus 1
-- Focus 2
-- Focus 3
+Source:
 
 ---
 
 # Equipment Setup（器械设置）
 
-Springs:
-
 Footbar:
+
+Springs:
 
 Headrest:
 
 Accessories:
+
+Source:
 
 ---
 
@@ -104,11 +88,15 @@ Accessories:
 
 Value:
 
+Source:
+
 ---
 
 ## Ankles（踝关节）
 
 Value:
+
+Source:
 
 ---
 
@@ -116,11 +104,15 @@ Value:
 
 Value:
 
+Source:
+
 ---
 
 ## Hips（髋关节）
 
 Value:
+
+Source:
 
 ---
 
@@ -128,11 +120,15 @@ Value:
 
 Value:
 
+Source:
+
 ---
 
 ## Spine（脊柱）
 
 Value:
+
+Source:
 
 ---
 
@@ -140,11 +136,15 @@ Value:
 
 Value:
 
+Source:
+
 ---
 
 ## Scapula（肩胛）
 
 Value:
+
+Source:
 
 ---
 
@@ -152,17 +152,15 @@ Value:
 
 Value:
 
+Source:
+
 ---
 
 ## Arms（双臂）
 
 Value:
 
----
-
-## Hands（双手）
-
-Value:
+Source:
 
 ---
 
@@ -200,43 +198,19 @@ Execution:
 
 Return:
 
+Source:
+
 ---
 
 # Repetitions（重复次数）
 
 Value:
 
----
-
-# Teaching（教学）
-
-## Teaching Cues（教学口令）
-
-### Cue 1
-
-Value:
-
 Source:
 
 ---
 
-### Cue 2
-
-Value:
-
-Source:
-
----
-
-### Cue 3
-
-Value:
-
-Source:
-
----
-
-## Key Points（动作要点）
+# Key Points（动作要点）
 
 ### Point 1
 
@@ -259,32 +233,6 @@ Source:
 Value:
 
 Source:
-
----
-
-## Observation（观察重点）
-
-- Observation 1
-- Observation 2
-- Observation 3
-
----
-
-## Common Errors（常见错误）
-
-### Error 1
-
-Description:
-
-Correction:
-
----
-
-### Error 2
-
-Description:
-
-Correction:
 
 ---
 
@@ -332,49 +280,7 @@ Source:
 
 ---
 
-## Joint Motion（关节运动）
-
-Value:
-
-Source:
-
----
-
-## Joint Stability（关节稳定）
-
-Value:
-
-Source:
-
----
-
 # Stability & Alignment（稳定与排列）
-
-- Alignment 1
-- Alignment 2
-- Alignment 3
-
----
-
-# Clinical（临床应用）
-
-## Suitable（适用）
-
-Value:
-
-Source:
-
----
-
-## Contraindications（禁忌）
-
-Value:
-
-Source:
-
----
-
-## Precautions（注意事项）
 
 Value:
 
@@ -386,24 +292,19 @@ Source:
 
 ## Keywords
 
-- Keyword 1
-- Keyword 2
-- Keyword 3
+- Keyword
 
 ---
 
 ## Tags
 
-- Tag 1
-- Tag 2
-- Tag 3
+- Tag
 
 ---
 
 ## Related Movements
 
-- Movement 1
-- Movement 2
+- Movement
 
 ---
 
