@@ -1,5 +1,7 @@
 # REF-ESS-001-V03 — Heels on Bar（双踵抵在脚踏杆上）
 
+---
+
 # Document Information
 
 Version:
@@ -14,7 +16,7 @@ Xinlei Hu
 Reviewer:
 
 Last Updated:
-08/06/2026
+2026-08-12
 
 ---
 
@@ -50,20 +52,20 @@ Footwork
 Movement Family:
 Footwork Series
 
-Difficulty:
-Beginner
-
 ---
 
 # Source Information（来源）
 
 Source:
+
 STOTT Pilates Reformer Essential Manual（Chinese Edition）
 
 Source Pages:
+
 24、27
 
 Knowledge Scope:
+
 Source Knowledge Only
 
 ---
@@ -72,49 +74,50 @@ Source Knowledge Only
 
 ## Purpose（动作目的）
 
-作为 Footwork 的第三个标准脚位，通过双踵抵在脚踏杆上完成 Footwork 动作。
+Footwork 的第三个标准脚位。
+
+采用双踵抵在脚踏杆上的脚位完成 Footwork 动作。
+
+Source:
+P24
 
 ---
 
 ## Description（动作描述）
 
-双踵抵在脚踏杆上，双踝保持背屈，双腿平行并拢，在保持脚掌位置不变的情况下完成推车动作。
+双踵抵在脚踏杆上。
 
----
+双踝背屈。
 
-## Teaching Goals（教学目标）
+双腿平行并拢。
 
-- 建立正确的双踵支撑位置。
-- 建立踝关节背屈控制。
-- 保持双腿平行排列。
+完成 Footwork 推车动作。
 
----
-
-## Training Focus（训练重点）
-
-- 踝关节背屈控制。
-- 足部稳定。
-- 双腿平行控制。
+Source:
+P24
 
 ---
 
 # Equipment Setup（器械设置）
 
-Springs:
-
-3–4 根弹簧。
-
 Footbar:
 
-Position 1。
+Position 1
+
+Springs:
+
+3–4 根弹簧
 
 Headrest:
 
-根据个人情况调节。
+根据个人情况调节头垫。
 
 Accessories:
 
-无。
+无
+
+Source:
+P24
 
 ---
 
@@ -124,15 +127,17 @@ Accessories:
 
 双踵抵在脚踏杆上。
 
-Source：P24
+Source:
+P24
 
 ---
 
 ## Ankles（踝关节）
 
-双踝保持背屈。
+双踝背屈。
 
-Source：P24
+Source:
+P24
 
 ---
 
@@ -140,7 +145,8 @@ Source：P24
 
 双膝弯曲。
 
-Source：P24
+Source:
+P24
 
 ---
 
@@ -148,7 +154,8 @@ Source：P24
 
 双腿平行并拢。
 
-Source：P24
+Source:
+P24
 
 ---
 
@@ -156,7 +163,8 @@ Source：P24
 
 保持中立位。
 
-Source：P22
+Source:
+P22
 
 ---
 
@@ -164,7 +172,8 @@ Source：P22
 
 保持中立位。
 
-Source：P22
+Source:
+P22
 
 ---
 
@@ -172,7 +181,8 @@ Source：P22
 
 保持稳定。
 
-Source：P22
+Source:
+P22
 
 ---
 
@@ -180,7 +190,8 @@ Source：P22
 
 保持稳定。
 
-Source：P22
+Source:
+P22
 
 ---
 
@@ -188,7 +199,8 @@ Source：P22
 
 保持自然排列。
 
-Source：P22
+Source:
+P22
 
 ---
 
@@ -196,15 +208,10 @@ Source：P22
 
 自然放于身体两侧。
 
-Source：P22
-
----
-
-## Hands（双手）
-
 掌心向下。
 
-Source：P22
+Source:
+P22
 
 ---
 
@@ -216,7 +223,8 @@ Source：P22
 
 吸气。
 
-Source：P24
+Source:
+P24
 
 ---
 
@@ -230,7 +238,8 @@ Source：P24
 
 推开滑垫。
 
-Source：P24
+Source:
+P24
 
 ---
 
@@ -242,7 +251,8 @@ Source：P24
 
 控制滑垫复位。
 
-Source：P24
+Source:
+P24
 
 ---
 
@@ -260,91 +270,46 @@ Return:
 
 吸气。
 
+Source:
+P24
+
 ---
 
 # Repetitions（重复次数）
 
 10–12 次。
 
-Source：P24
+Source:
+P24
 
 ---
 
-# Teaching（教学）
-
-## Teaching Cues（教学口令）
-
-### Cue 1
-
-Value:
-
-脚掌保持悬空。
-
-Source：P24
-
----
-
-### Cue 2
-
-Value:
-
-保持脚掌位置不动。
-
-Source：P24
-
----
-
-### Cue 3
-
-Value:
-
-双腿平行并拢。
-
-Source：P24
-
----
-
-## Key Points（动作要点）
+# Key Points（动作要点）
 
 ### Point 1
 
-Value:
-
 遵循第22页「要点」部分列列的所有事项。
 
-Source：P24
+Source:
+P24
 
 ---
 
 ### Point 2
 
-Value:
+脚掌保持“踩地”一样的姿势，并始终悬空不动；让踝关节能够自由运动。
 
-脚掌保持「踩地」一样的姿势，并始终悬空不动；让踝关节能够自由运动。
-
-Source：P24
+Source:
+P24
 
 ---
 
 ### Point 3
 
-Value:
-
 大腿内侧保持收紧，双腿平行。
 
-Source：P24
-
----
-
-## Observation（观察重点）
-
-教材未单独列出。
-
----
-
-## Common Errors（常见错误）
-
-教材未单独列出。
+Source:
+P24
 
 ---
 
@@ -352,17 +317,23 @@ Source：P24
 
 ## Concentric（向心收缩）
 
-利用腘绳肌和比目鱼肌保持踝屈。
+伸展时：
 
-Source：P27
+向心收缩髋伸肌群和股四头肌。
+
+Source:
+P27
 
 ---
 
 ## Eccentric（离心收缩）
 
-复位时离心收缩上述肌肉。
+复位时：
 
-Source：P27
+离心收缩上述肌肉（主要是股三头肌）。
+
+Source:
+P27
 
 ---
 
@@ -370,15 +341,22 @@ Source：P27
 
 等长收缩内收肌群，以保持双腿并拢。
 
-Source：P27
+Source:
+P27
 
 ---
 
 ## Stabilizers（稳定肌）
 
-利用胫骨后肌保持踝屈。
+利用双踝背屈肌群保持双脚姿势。
 
-Source：P27
+Source:
+P27
+
+胫骨前肌 + 𧿹长伸肌 + 趾长伸肌 + 第三腓骨肌
+
+Source:
+Anatomy 
 
 ---
 
@@ -386,46 +364,25 @@ Source：P27
 
 ## Primary Joints（主要关节）
 
-髋关节。
+* 髋关节
+* 膝关节
+* 踝关节
 
-膝关节。
-
-踝关节。
-
-Source：P24、P27
-
----
-
-## Joint Motion（关节运动）
-
-髋关节伸展 / 屈曲。
-
-膝关节伸展 / 屈曲。
-
-踝关节保持背屈。
-
-Source：P24
-
----
-
-## Joint Stability（关节稳定）
-
-脚掌保持悬空。
-
-双腿保持平行。
-
-保持髋、膝、踝正确排列。
-
-Source：P24
+Source:
+P24、P27
 
 ---
 
 # Stability & Alignment（稳定与排列）
 
-- 双腿保持平行。
-- 双脚保持背屈。
-- 骨盆保持中立位。
-- 脊柱保持中立位。
+* 双腿平行并拢。
+* 双踝保持背屈。
+* 脚掌保持“踩地”一样的姿势，并始终悬空不动。
+* 骨盆保持中立位。
+* 脊柱保持中立位。
+
+Source:
+P22、P24
 
 ---
 
@@ -433,41 +390,48 @@ Source：P24
 
 ## Keywords
 
-- Footwork
-- Heels on Bar
-- Reformer
+* Footwork
+* Heels on Bar
+* Reformer
+* Ankle Dorsiflexion
+* 双踝背屈
 
 ---
 
 ## Tags
 
-- Warm-up
-- Lower Extremity
-- Ankle Dorsiflexion
+* Footwork Series
+* Lower Extremity
 
 ---
 
 ## Related Movements
 
-- REF-ESS-001 Footwork
-- REF-ESS-001-V02 Wrap Toes on Bar
-- REF-ESS-001-V04 High Half Toe
+* REF-ESS-001 Footwork
+* REF-ESS-001-V01 Toes Apart Heels Together
+* REF-ESS-001-V02 Wrap Toes on Bar
+* REF-ESS-001-V04 High Half Toe
 
 ---
 
 # References
 
 Methodology:
+
 STOTT Pilates
 
 Program:
+
 Reformer Essential
 
 Exercise:
+
 Exercise 1 – Footwork
 
 Variant:
+
 Heels on Bar
 
 Source Pages:
+
 24、27
