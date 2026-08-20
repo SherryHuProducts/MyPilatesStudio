@@ -40,21 +40,21 @@ Small Pilates studios often rely on a combination of:
 These tools solve individual tasks, but they do not understand how Pilates teaching knowledge connects to the individual student.
 
 For example, when preparing a lesson, an instructor may need to consider:
-
-**Student Profile**
-↓  
-**Previous Lessons**
-↓  
-**Goals / Limitations / Feedback**
-↓  
-**Available Equipment**
-↓  
-**Appropriate Movements**
-↓  
-**Teaching Cues**
-↓  
-**Lesson Sequence**
-
+```text
+Student Profile
+       ↓  
+Previous Lessons
+       ↓  
+Goals / Limitations / Feedback    
+       ↓  
+Available Equipment
+       ↓  
+Appropriate Movements
+       ↓  
+Teaching Cues
+       ↓  
+Lesson Sequence
+```
 Much of this reasoning is still performed manually.
 
 ---
