@@ -40,21 +40,17 @@ Small Pilates studios often rely on a combination of:
 These tools solve individual tasks, but they do not understand how Pilates teaching knowledge connects to the individual student.
 
 For example, when preparing a lesson, an instructor may need to consider:
+
 ```text
-Student Profile
-       ↓  
-Previous Lessons
-       ↓  
-Goals / Limitations / Feedback    
-       ↓  
-Available Equipment
-       ↓  
-Appropriate Movements
-       ↓  
-Teaching Cues
-       ↓  
-Lesson Sequence
+Student Profile + Lesson History + Goals / Limitations / Feedback + Available Equipment
+                                    ↓
+                        Appropriate Movement Selection
+                                    ↓
+                              Teaching Cues
+                                    ↓
+                              Lesson Sequence
 ```
+
 Much of this reasoning is still performed manually.
 
 ---
@@ -63,14 +59,14 @@ Much of this reasoning is still performed manually.
 
 Pilates Studio OS brings these pieces into one structured workflow.
 
-| Real-World Challenge                   | Pilates Studio OS                                               |
-| -------------------------------------- | --------------------------------------------------------------- |
-| Teaching knowledge is scattered        | Structured movement and teaching knowledge base                 |
-| Student information is disconnected    | Centralized student profiles and lesson history                 |
-| Lesson planning is repetitive          | AI-assisted lesson generation                                   |
-| Instructors rely heavily on memory     | Searchable movements, cues, anatomy, and teaching relationships |
-| General AI lacks studio context        | AI retrieves structured Pilates-specific knowledge              |
-| Student progress is difficult to track | Lessons and feedback can build a continuous student history     |
+| Real-World Challenge                   | Pilates Studio OS                                                                |
+| -------------------------------------- | -------------------------------------------------------------------------------- |
+| Teaching knowledge is scattered        | Structured movement and teaching knowledge base                                  |
+| Student information is disconnected    | Centralized student profiles and lesson history                                  |
+| Lesson planning is repetitive          | AI-assisted lesson generation                                                    |
+| Instructors rely heavily on memory     | Searchable movements, cues, anatomy, previous lessons and teaching relationships |
+| General AI lacks studio context        | AI retrieves structured Pilates-specific knowledge                               |
+| Student progress is difficult to track | Lessons and feedback can build a continuous student history                      |
 
 Instead of replacing the instructor, the system is designed to reduce repetitive preparation and make professional knowledge easier to retrieve and apply.
 
